@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alQaisi/facerecognition/static/css/main.91874034.chunk.css",
+    "main.js": "/alQaisi/facerecognition/static/js/main.bd62bf5a.chunk.js",
+    "main.js.map": "/alQaisi/facerecognition/static/js/main.bd62bf5a.chunk.js.map",
+    "runtime-main.js": "/alQaisi/facerecognition/static/js/runtime-main.6a3452e7.js",
+    "runtime-main.js.map": "/alQaisi/facerecognition/static/js/runtime-main.6a3452e7.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/alQaisi/facerecognition/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.fb4ad3b2.chunk.js": "/alQaisi/facerecognition/static/js/2.fb4ad3b2.chunk.js",
+    "static/js/2.fb4ad3b2.chunk.js.map": "/alQaisi/facerecognition/static/js/2.fb4ad3b2.chunk.js.map",
+    "index.html": "/alQaisi/facerecognition/index.html",
+    "precache-manifest.b0f295b5d6657fcc0e3d6c38657751a8.js": "/alQaisi/facerecognition/precache-manifest.b0f295b5d6657fcc0e3d6c38657751a8.js",
+    "service-worker.js": "/alQaisi/facerecognition/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/alQaisi/facerecognition/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.91874034.chunk.css.map": "/alQaisi/facerecognition/static/css/main.91874034.chunk.css.map",
+    "static/js/2.fb4ad3b2.chunk.js.LICENSE.txt": "/alQaisi/facerecognition/static/js/2.fb4ad3b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a3452e7.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.fb4ad3b2.chunk.js",
+    "static/css/main.91874034.chunk.css",
+    "static/js/main.bd62bf5a.chunk.js"
+  ]
+}
