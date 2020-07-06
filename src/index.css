@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family:'Courier New', Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(90deg, #fd4ad9 0%, #22C1C3 100%);
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgb(252, 92, 92) 50%, rgb(255, 196, 59) 100%);
+  background: rgb(63,94,251);
+  background: linear-gradient(90deg, rgba(63,94,251,1) 12%, rgba(252,70,107,1) 91%);
+
+}
+button{
+  cursor: pointer;
+}
