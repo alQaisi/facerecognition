@@ -166,7 +166,7 @@ class App extends Component {
   onButtonSubmit=()=>{
     this.setState({imageUrl:this.state.input})
     app.models.predict(
-      Clarifai.FACE_DETECT_MODEL,
+      "c0c0ac362b03416da06ab3fa36fb58e3",
       this.state.input)
       .then(response=>this.displayFaceBox(this.calculateFaceLocation(response)))
       .catch(err=>{
