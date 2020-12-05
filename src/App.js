@@ -156,7 +156,6 @@ class App extends Component {
     // }
   }
   displayFaceBox=box=>{
-    console.log(box);
     this.setState({box});
     this.setState({rank:this.state.rank+box.length})
   }
@@ -171,7 +170,7 @@ class App extends Component {
       .then(response=>this.displayFaceBox(this.calculateFaceLocation(response)))
       .catch(err=>{
         this.setState({box:{}})
-        console.log(err)});
+      });
   }
   render(){
     return (
