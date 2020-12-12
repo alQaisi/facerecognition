@@ -165,7 +165,7 @@ class App extends Component {
   onButtonSubmit=()=>{
     this.setState({imageUrl:this.state.input})
     app.models.predict(
-      "c0c0ac362b03416da06ab3fa36fb58e3",
+      "d02b4508df58432fbb84e800597b8959",
       this.state.input)
       .then(response=>this.displayFaceBox(this.calculateFaceLocation(response)))
       .catch(err=>{
